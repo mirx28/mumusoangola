@@ -82,7 +82,9 @@ const createCatalogCard = (product) => {
 
 	const image = document.createElement("img");
 	image.className = "catalog-card-image";
-	image.src = product.image;
+	// Normalise to NFC: accented folder names are stored decomposed on some
+	// systems (macOS writes NFD), which 404s against the NFC paths on disk.
+	image.src = typeof product.image === "string" ? product.image.normalize("NFC") : product.image;
 	image.alt = product.name;
 	image.loading = "lazy";
 	image.addEventListener("error", () => {
