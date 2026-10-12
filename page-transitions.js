@@ -2,6 +2,24 @@ const transitionStorageKey = "mumuso-page-transition";
 const transitionDuration = 240;
 let navigationStarted = false;
 
+// The out-transition is a full-screen overlay driven by classes on <html>.
+// Those classes used to survive the navigation, so when the browser restored
+// the page from the back-forward cache (back/forward button) the overlay came
+// back at opacity 1 and pointer-events: auto — a blank, unclickable page.
+const resetTransitionState = () => {
+	document.documentElement.classList.remove(
+		"is-transitioning-out",
+		"is-transition-active"
+	);
+	navigationStarted = false;
+};
+
+// Clear the state before the page is frozen and again after it is restored.
+window.addEventListener("pageshow", (event) => {
+	if (event.persisted) resetTransitionState();
+});
+window.addEventListener("pagehide", resetTransitionState);
+
 const isPlainLeftClick = (event) =>
 	event.button === 0 &&
 	!event.metaKey &&
@@ -53,5 +71,8 @@ document.addEventListener("click", (event) => {
 		window.setTimeout(() => {
 			window.location.assign(destination.href);
 		}, transitionDuration);
+		// Safety net: if the navigation never happens (blocked, cancelled or
+		// extremely slow), un-cover the page instead of leaving it stuck.
+		window.setTimeout(resetTransitionState, transitionDuration + 2000);
 	});
 });
