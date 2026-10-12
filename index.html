@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="pt-AO">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="A MUMUSO é uma marca global de estilo de vida, com designs modernos, qualidade fiável e preços acessíveis."
+    />
+    <title>MUMUSO</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="footer.css" />
+    <link rel="stylesheet" href="page-transitions.css" />
+    <script src="script.js" defer></script>
+    <script src="page-transitions.js" defer></script>
+  </head>
+  <body>
+    <div class="preloader-overlay" aria-label="A carregar a página">
+      <div class="preloader" aria-hidden="true">
+        <div class="preloader-block">
+          <div class="preloader-block">
+            <div class="preloader-block">
+              <div class="preloader-block"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="preloader-copy">
+        <p aria-label="A carregar">A carregar</p>
+      </div>
+    </div>
+
+    <div class="app">
+      <dialog
+        class="newsletter-dialog"
+        id="newsletter-dialog"
+        aria-labelledby="newsletter-title"
+        aria-describedby="newsletter-notice"
+      >
+        <div class="newsletter-content">
+          <p class="newsletter-eyebrow">MUMUSO ANGOLA</p>
+          <button
+            class="newsletter-close"
+            type="button"
+            aria-label="Fechar"
+            data-newsletter-dismiss
+          >
+            &times;
+          </button>
+          <h2 id="newsletter-title">Junte-se à newsletter MUMUSO</h2>
+          <p class="newsletter-description">
+            Receba novidades diárias, inspirações e actualizações da MUMUSO Angola.
+          </p>
+          <p class="newsletter-notice" id="newsletter-notice">
+            A inscrição ainda não está activa. Por agora, o seu e-mail não será
+            enviado nem guardado.
+          </p>
+          <form class="newsletter-form" id="newsletter-form">
+            <label for="newsletter-email">O seu e-mail</label>
+            <input
+              id="newsletter-email"
+              name="email"
+              type="email"
+              autocomplete="email"
+              placeholder="nome@exemplo.com"
+              autofocus
+              required
+            />
+            <button class="newsletter-submit" type="submit">Quero receber novidades</button>
+          </form>
+          <p class="newsletter-thanks" id="newsletter-thanks" role="status" tabindex="-1" hidden>
+            Obrigado pelo interesse! A inscrição ainda não foi enviada. Quando a
+            newsletter estiver activa, poderá aderir aqui.
+          </p>
+          <button class="newsletter-dismiss" type="button" data-newsletter-dismiss>
+            Agora não
+          </button>
+        </div>
+      </dialog>
+
+      <nav class="site-nav" aria-label="Navegação principal">
+        <button
+          class="nav-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="primary-navigation"
+          aria-label="Abrir menu"
+        >
+          <span class="nav-toggle-icon" aria-hidden="true"><span></span></span>
+        </button>
+        <div class="nav-links" id="primary-navigation">
+          <a href="#home">Início</a>
+          <a href="all-products.html">Todos os produtos</a>
+          <a href="stores.html">Nossas lojas</a>
+          <a href="#offers">Ofertas especiais</a>
+          <a href="abous-us.html">Sobre nós</a>
+          <a href="contact%20us.html">Contacte-nos</a>
+        </div>
+      </nav>
+
+      <section class="hero hero-branding" id="home" aria-label="MUMUSO Angola">
+        <div class="brand-lockup">
+          <h1 class="brand-name">MUMUSO</h1>
+          <h2 class="brand-location">ANGOLA</h2>
+          <a class="hero-shop-link" href="catalog.html">
+            <span>Comprar agora</span>
+            <span class="hero-shop-arrow" aria-hidden="true">&#8599;</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="projects" id="products">
+        <div class="img">
+          <img src="public/portraits/portrait10.jpg" alt="" />
+        </div>
+
+        <div class="projects-brief" aria-hidden="true"></div>
+
+        <div class="col projects-cover">
+          <div class="img">
+            <img src="public/portraits/portrait4.jpg" alt="" />
+          </div>
+        </div>
+
+        <div class="col projects-list">
+          <a class="project" href="catalog.html?category=beleza#catalog">
+            <h1>Beleza</h1>
+            <p>Cuidados da pele / Cosméticos / Higiene</p>
+          </a>
+          <a class="project" href="catalog.html?category=brinquedos-presentes#catalog">
+            <h1>Brinquedos E Presentes</h1>
+            <p>Diversão / Conforto / Presentes / Peluches</p>
+          </a>
+          <a class="project" href="catalog.html?category=casa-cozinha#catalog">
+            <h1>Casa E Cozinha</h1>
+            <p>Cozinha / Lar / Eletrodomésticos</p>
+          </a>
+          <a class="project" href="catalog.html?category=chaveiros#catalog">
+            <h1>Chaveiros</h1>
+            <p>Acessórios / Chaves / Presentes</p>
+          </a>
+        </div>
+      </section>
+
+      <section class="category-gallery" aria-labelledby="category-gallery-title">
+        <a class="category-gallery-heading" href="all-products.html">
+          <h2 id="category-gallery-title">Explore as nossas categorias</h2>
+          <p>Arraste para descobrir mais</p>
+        </a>
+        <div
+          class="category-track"
+          role="region"
+          aria-label="Categorias de produtos; arraste ou desloque horizontalmente"
+          tabindex="0"
+        >
+          <a class="category-card" href="catalog.html?category=beleza#catalog">
+            <img src="public/hero1.jpg" alt="Produtos de beleza" draggable="false" />
+            <span class="category-card-copy">
+              <span class="category-card-title">Beleza</span>
+              <span class="category-card-link">Ver mais <span aria-hidden="true">&#8599;</span></span>
+            </span>
+          </a>
+          <a class="category-card" href="catalog.html?category=brinquedos-presentes#catalog">
+            <img src="public/hero2.jpg" alt="Brinquedos e presentes" draggable="false" />
+            <span class="category-card-copy">
+              <span class="category-card-title">Brinquedos E Presentes</span>
+              <span class="category-card-link">Ver mais <span aria-hidden="true">&#8599;</span></span>
+            </span>
+          </a>
+          <a class="category-card" href="catalog.html?category=casa-cozinha#catalog">
+            <img src="public/hero3.jpg" alt="Produtos para casa e cozinha" draggable="false" />
+            <span class="category-card-copy">
+              <span class="category-card-title">Casa E Cozinha</span>
+              <span class="category-card-link">Ver mais <span aria-hidden="true">&#8599;</span></span>
+            </span>
+          </a>
+          <a class="category-card" href="catalog.html?category=chaveiros#catalog">
+            <img src="public/hero4.jpg" alt="Chaveiros" draggable="false" />
+            <span class="category-card-copy">
+              <span class="category-card-title">Chaveiros</span>
+              <span class="category-card-link">Ver mais <span aria-hidden="true">&#8599;</span></span>
+            </span>
+          </a>
+          <a class="category-card" href="catalog.html?category=eletronica-aparelhos#catalog">
+            <img src="public/hero5.jpg" alt="Eletrónica e aparelhos" draggable="false" />
+            <span class="category-card-copy">
+              <span class="category-card-title">Eletrónica E Aparelhos</span>
+              <span class="category-card-link">Ver mais <span aria-hidden="true">&#8599;</span></span>
+            </span>
+          </a>
+          <a class="category-card" href="catalog.html?category=papelaria#catalog">
+            <img src="public/hero6.jpg" alt="Papelaria" draggable="false" />
+            <span class="category-card-copy">
+              <span class="category-card-title">Papelaria</span>
+              <span class="category-card-link">Ver mais <span aria-hidden="true">&#8599;</span></span>
+            </span>
+          </a>
+          <a class="category-card" href="catalog.html?category=pastas-viagem#catalog">
+            <img src="public/hero7.jpg" alt="Pastas e artigos de viagem" draggable="false" />
+            <span class="category-card-copy">
+              <span class="category-card-title">Pastas E Artigos De Viagem</span>
+              <span class="category-card-link">Ver mais <span aria-hidden="true">&#8599;</span></span>
+            </span>
+          </a>
+          <a class="category-card" href="catalog.html?category=saco-presente#catalog">
+            <img src="public/hero8.jpg" alt="Sacos de presente" draggable="false" />
+            <span class="category-card-copy">
+              <span class="category-card-title">Saco De Presente</span>
+              <span class="category-card-link">Ver mais <span aria-hidden="true">&#8599;</span></span>
+            </span>
+          </a>
+        </div>
+      </section>
+
+      <section class="about" id="about-us">
+        <div class="col intro intro-categories">
+          <a class="category-item" href="catalog.html?category=eletronica-aparelhos#catalog">
+            <h2>Eletrónica E Aparelhos</h2>
+            <p>Acessórios / Áudio / Energia / Dispositivos</p>
+          </a>
+          <a class="category-item" href="catalog.html?category=papelaria#catalog">
+            <h2>Papelaria</h2>
+            <p>Cadernos / Canetas / Escritório</p>
+          </a>
+          <a class="category-item" href="catalog.html?category=pastas-viagem#catalog">
+            <h2>Pastas E Artigos De Viagem</h2>
+            <p>Essenciais de viagem / Arrumação / Transporte</p>
+          </a>
+          <a class="category-item" href="catalog.html?category=saco-presente#catalog">
+            <h2>Saco De Presente</h2>
+            <p>Sacos / Embalagens / Presentes</p>
+          </a>
+        </div>
+        <div class="col portrait">
+          <div class="portrait-container">
+            <div class="img">
+              <img src="public/portraits/portrait7.jpg" alt="" />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="banner" id="offers">
+        <div class="img">
+          <img src="public/portraits/portrait9.jpg" alt="" />
+        </div>
+
+        <div class="banner-copy">
+          <p>Seja o</p>
+          <h1>Primeiro a saber</h1>
+          <p>
+            Receba novidades sobre lançamentos de produtos, inaugurações de
+            lojas e ofertas.
+          </p>
+          <button id="newsletter-open" type="button">Receber novidades</button>
+        </div>
+      </section>
+
+      <section class="footer">
+        <div class="col">
+          <div class="social-links" id="contact" aria-label="Redes sociais e contacto">
+            <a href="https://www.instagram.com/mumusoangolaofficial/?hl=en" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="social-link instagram">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5zm0 2a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3H7zm5 3.5A5.5 5.5 0 1 1 6.5 13 5.5 5.5 0 0 1 12 7.5zm0 2A3.5 3.5 0 1 0 15.5 13 3.5 3.5 0 0 0 12 9.5zm5.25-3.25a1.25 1.25 0 1 1-1.25 1.25 1.25 1.25 0 0 1 1.25-1.25z"/></svg>
+            </a>
+            <a href="https://wa.me/244922994922" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" class="social-link whatsapp">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12.04 2a9.91 9.91 0 0 0-8.48 15.03L2 22l5.1-1.52A9.94 9.94 0 1 0 12.04 2Zm0 18.08a8.1 8.1 0 0 1-4.13-1.13l-.3-.18-3.03.9.91-2.95-.2-.31a8.13 8.13 0 1 1 6.75 3.67Zm4.46-6.09c-.24-.12-1.42-.7-1.64-.78-.22-.08-.38-.12-.54.12-.16.24-.62.78-.76.94-.14.16-.28.18-.52.06-.24-.12-1.02-.38-1.94-1.2-.72-.64-1.2-1.43-1.34-1.67-.14-.24-.02-.37.1-.49.1-.1.24-.28.36-.42.12-.14.16-.24.24-.4.08-.16.04-.3-.02-.42-.06-.12-.54-1.3-.74-1.78-.2-.47-.4-.4-.54-.4l-.46-.01c-.16 0-.42.06-.64.3-.22.24-.84.82-.84 2s.86 2.32.98 2.48c.12.16 1.7 2.6 4.12 3.64.58.25 1.03.4 1.38.51.58.18 1.1.16 1.52.1.46-.07 1.42-.58 1.62-1.14.2-.56.2-1.04.14-1.14-.06-.1-.22-.16-.46-.28Z"/></svg>
+            </a>
+          </div>
+
+          <div class="footer-links" id="stores">
+            <p>Menu</p>
+            <a class="footer-store-link" href="stores.html"><h1>Lojas</h1></a>
+          </div>
+
+          <p>&copy; 2026 MUMUSO ANGOLA</p>
+        </div>
+        <div class="col">
+          <p>
+            Receba as novidades <br />
+            <button>Subscrever</button>
+          </p>
+
+          <div class="shop">
+            <div class="img">
+              <img src="public/portraits/portrait8.jpg" alt="" />
+            </div>
+          </div>
+
+          <p>Qualidade / Estilo / Valor</p>
+        </div>
+      </section>
+    </div>
+    <footer class="site-footer">
+      <p class="site-footer-copyright">&copy; 2026 MUMUSO ANGOLA. Todos os direitos reservados.</p>
+      <nav class="site-footer-socials" aria-label="Redes sociais">
+        <a href="https://www.instagram.com/mumusoangolaofficial/?hl=en" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5zm0 2a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3H7zm5 3.5A5.5 5.5 0 1 1 6.5 13 5.5 5.5 0 0 1 12 7.5zm0 2A3.5 3.5 0 1 0 15.5 13 3.5 3.5 0 0 0 12 9.5zm5.25-3.25a1.25 1.25 0 1 1-1.25 1.25 1.25 1.25 0 0 1 1.25-1.25z"/></svg>
+        </a>
+        <a href="https://wa.me/244922994922" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12.04 2a9.91 9.91 0 0 0-8.48 15.03L2 22l5.1-1.52A9.94 9.94 0 1 0 12.04 2Zm0 18.08a8.1 8.1 0 0 1-4.13-1.13l-.3-.18-3.03.9.91-2.95-.2-.31a8.13 8.13 0 1 1 6.75 3.67Zm4.46-6.09c-.24-.12-1.42-.7-1.64-.78-.22-.08-.38-.12-.54.12-.16.24-.62.78-.76.94-.14.16-.28.18-.52.06-.24-.12-1.02-.38-1.94-1.2-.72-.64-1.2-1.43-1.34-1.67-.14-.24-.02-.37.1-.49.1-.1.24-.28.36-.42.12-.14.16-.24.24-.4.08-.16.04-.3-.02-.42-.06-.12-.54-1.3-.74-1.78-.2-.47-.4-.4-.54-.4l-.46-.01c-.16 0-.42.06-.64.3-.22.24-.84.82-.84 2s.86 2.32.98 2.48c.12.16 1.7 2.6 4.12 3.64.58.25 1.03.4 1.38.51.58.18 1.1.16 1.52.1.46-.07 1.42-.58 1.62-1.14.2-.56.2-1.04.14-1.14-.06-.1-.22-.16-.46-.28Z"/></svg>
+        </a>
+      </nav>
+      <a class="site-footer-policy" href="privacy-policy.html">Política de privacidade</a>
+      <p class="site-footer-brand">MUMUSO ANGOLA</p>
+    </footer>
+  </body>
+</html>

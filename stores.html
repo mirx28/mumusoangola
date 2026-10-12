@@ -1,0 +1,544 @@
+<!doctype html>
+<html lang="pt-AO">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Encontre a única loja MUMUSO em Angola, na Rua Amílcar Cabral 170, Luanda."
+    />
+    <title>Nossas lojas | MUMUSO Angola</title>
+    <link rel="stylesheet" href="footer.css" />
+    <link rel="stylesheet" href="page-transitions.css" />
+    <script src="page-transitions.js" defer></script>
+    <style>
+      :root {
+        --green: #69c7a5;
+        --green-deep: #4db38e;
+        --paper: #f5f5f0;
+        --ink: #173f31;
+        --muted: #53665c;
+        --line: rgba(77, 179, 142, 0.3);
+        --sans: "Avenir Next", "Montserrat", "Helvetica Neue", Arial, sans-serif;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      html {
+        min-width: 320px;
+        scroll-behavior: smooth;
+      }
+
+      body {
+        min-width: 320px;
+        min-height: 100vh;
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: var(--sans);
+      }
+
+      .site-nav {
+        position: fixed;
+        inset: 0 0 auto;
+        z-index: 10;
+        display: flex;
+        min-height: 4.5rem;
+        align-items: center;
+        justify-content: center;
+        padding: 0.75rem 2rem;
+        background: rgba(245, 245, 240, 0.96);
+        box-shadow: 0 1px 12px rgba(16, 16, 16, 0.08);
+        backdrop-filter: blur(12px);
+      }
+
+      .nav-links {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: clamp(1rem, 2.7vw, 2.75rem);
+      }
+
+      .nav-links a {
+        color: var(--green-deep);
+        font-size: 0.78rem;
+        font-weight: 600;
+        text-decoration: none;
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+
+      .nav-links a:hover,
+      .nav-links a:focus-visible {
+        color: var(--ink);
+      }
+
+      .nav-toggle {
+        display: none;
+      }
+
+      main {
+        min-height: 100vh;
+        padding: 4.5rem clamp(1.25rem, 7vw, 7rem) 3rem;
+      }
+
+      .stores-layout {
+        display: grid;
+        width: min(100%, 82rem);
+        min-height: calc(100vh - 7.5rem);
+        grid-template-columns: minmax(0, 1fr) minmax(19rem, 0.82fr);
+        margin: 1.5rem auto 0;
+        background: #fff;
+      }
+
+      .stores-intro {
+        position: relative;
+        display: flex;
+        min-height: 37rem;
+        flex-direction: column;
+        justify-content: space-between;
+        overflow: hidden;
+        padding: clamp(2rem, 6vw, 5.5rem);
+        background: var(--green);
+        color: #fff;
+        isolation: isolate;
+      }
+
+      .stores-intro::before,
+      .stores-intro::after {
+        position: absolute;
+        z-index: -1;
+        border: 1px solid rgba(255, 255, 255, 0.27);
+        border-radius: 50%;
+        content: "";
+      }
+
+      .stores-intro::before {
+        top: 18%;
+        right: -6rem;
+        width: min(62vw, 38rem);
+        aspect-ratio: 1;
+      }
+
+      .stores-intro::after {
+        right: 12%;
+        bottom: -13rem;
+        width: min(52vw, 30rem);
+        aspect-ratio: 1;
+      }
+
+      .brand-lockup {
+        display: flex;
+        align-items: baseline;
+        gap: 0.65rem;
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.13em;
+      }
+
+      .brand-lockup span:last-child {
+        padding-left: 0.65rem;
+        border-left: 1px solid rgba(255, 255, 255, 0.6);
+        font-size: 0.62rem;
+        font-weight: 500;
+      }
+
+      .stores-copy {
+        position: relative;
+        z-index: 1;
+        margin: 5rem 0;
+      }
+
+      .eyebrow {
+        margin: 0 0 1.2rem;
+        font-size: 0.68rem;
+        font-weight: 600;
+        letter-spacing: 0.2em;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        max-width: 10ch;
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: clamp(3.3rem, 6.3vw, 7rem);
+        font-weight: 400;
+        line-height: 0.98;
+      }
+
+      .stores-description {
+        max-width: 27rem;
+        margin: 1.5rem 0 0;
+        color: rgba(255, 255, 255, 0.9);
+        font-size: 0.95rem;
+        line-height: 1.7;
+      }
+
+      .stores-signoff {
+        display: flex;
+        align-items: center;
+        gap: 0.8rem;
+        margin: 0;
+        font-size: 0.68rem;
+        font-weight: 600;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+      }
+
+      .stores-signoff::before {
+        width: 2.75rem;
+        height: 1px;
+        background: currentColor;
+        content: "";
+      }
+
+      .store-card {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: clamp(2rem, 5vw, 4.5rem);
+      }
+
+      .store-index {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        color: var(--green-deep);
+        font-size: 0.68rem;
+        font-weight: 700;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+      }
+
+      .store-index::after {
+        width: 2.5rem;
+        height: 1px;
+        background: var(--line);
+        content: "";
+      }
+
+      .store-name {
+        margin: 1.5rem 0 2rem;
+        color: var(--ink);
+        font-size: clamp(1.5rem, 2.8vw, 2.25rem);
+        font-weight: 500;
+        line-height: 1.15;
+      }
+
+      .store-detail {
+        padding: 1.15rem 0;
+        border-top: 1px solid var(--line);
+      }
+
+      .store-detail:last-of-type {
+        border-bottom: 1px solid var(--line);
+      }
+
+      .store-detail-label {
+        display: block;
+        margin-bottom: 0.55rem;
+        color: var(--green-deep);
+        font-size: 0.64rem;
+        font-weight: 700;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+
+      .store-detail p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.98rem;
+        line-height: 1.6;
+      }
+
+      .map-link {
+        display: inline-flex;
+        min-height: 3.25rem;
+        align-items: center;
+        justify-content: center;
+        gap: 1.2rem;
+        margin-top: 2rem;
+        border-radius: 999px;
+        padding: 0.5rem 0.55rem 0.5rem 1.35rem;
+        background: var(--green-deep);
+        color: #fff;
+        font-size: 0.68rem;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+        text-decoration: none;
+        text-transform: uppercase;
+        transition: transform 0.2s ease, background 0.2s ease;
+      }
+
+      .map-link:hover {
+        transform: translateY(-2px);
+        background: var(--ink);
+      }
+
+      .map-arrow {
+        display: grid;
+        width: 2.15rem;
+        aspect-ratio: 1;
+        place-items: center;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.2);
+        font-size: 1rem;
+      }
+
+      @media (max-width: 900px) {
+        .nav-links {
+          gap: clamp(0.6rem, 1.5vw, 1rem);
+        }
+
+        .nav-links a {
+          font-size: 0.66rem;
+        }
+
+        .stores-layout {
+          grid-template-columns: 1fr 0.9fr;
+        }
+
+        .stores-intro,
+        .store-card {
+          padding: 2rem;
+        }
+      }
+
+      @media (max-width: 700px) {
+        .site-nav {
+          justify-content: flex-end;
+          min-height: 3.75rem;
+          padding: 0.5rem 1rem;
+        }
+
+        .nav-toggle {
+          position: relative;
+          z-index: 2;
+          display: grid;
+          width: 2.75rem;
+          height: 2.75rem;
+          place-items: center;
+          border: 1px solid rgba(77, 179, 142, 0.45);
+          border-radius: 50%;
+          padding: 0;
+          background: var(--paper);
+          color: var(--green-deep);
+          cursor: pointer;
+        }
+
+        .nav-icon,
+        .nav-icon::before,
+        .nav-icon::after {
+          display: block;
+          width: 1.1rem;
+          height: 2px;
+          background: currentColor;
+          transition: transform 0.2s ease;
+        }
+
+        .nav-icon {
+          position: relative;
+        }
+
+        .nav-icon::before,
+        .nav-icon::after {
+          position: absolute;
+          left: 0;
+          content: "";
+        }
+
+        .nav-icon::before {
+          transform: translateY(-0.35rem);
+        }
+
+        .nav-icon::after {
+          transform: translateY(0.35rem);
+        }
+
+        .nav-toggle[aria-expanded="true"] .nav-icon {
+          background: transparent;
+        }
+
+        .nav-toggle[aria-expanded="true"] .nav-icon::before {
+          transform: rotate(45deg);
+        }
+
+        .nav-toggle[aria-expanded="true"] .nav-icon::after {
+          transform: rotate(-45deg);
+        }
+
+        .nav-links {
+          position: absolute;
+          top: 100%;
+          right: 0;
+          left: 0;
+          flex-direction: column;
+          align-items: stretch;
+          gap: 0;
+          max-height: 0;
+          padding: 0 1.25rem;
+          overflow: hidden;
+          background: var(--paper);
+          box-shadow: 0 12px 16px rgba(16, 16, 16, 0.08);
+          visibility: hidden;
+          transition: max-height 0.3s ease, padding 0.3s ease, visibility 0.3s ease;
+        }
+
+        .nav-links.is-open {
+          max-height: 24rem;
+          padding: 0.5rem 1.25rem 1rem;
+          visibility: visible;
+        }
+
+        .nav-links a {
+          padding: 0.9rem 0;
+          border-bottom: 1px solid var(--line);
+          font-size: 0.85rem;
+        }
+
+        .nav-links a:last-child {
+          border-bottom: 0;
+        }
+
+        main {
+          padding: 3.75rem 0 0;
+        }
+
+        .stores-layout {
+          min-height: 0;
+          grid-template-columns: 1fr;
+          margin: 0;
+        }
+
+        .stores-intro {
+          min-height: 28rem;
+          padding: 1.75rem;
+        }
+
+        .stores-copy {
+          margin: 3.5rem 0;
+        }
+
+        h1 {
+          font-size: clamp(3.2rem, 14vw, 5rem);
+        }
+
+        .store-card {
+          padding: 2.25rem 1.5rem 3rem;
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        *,
+        *::before,
+        *::after {
+          scroll-behavior: auto !important;
+          transition-duration: 0.01ms !important;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="site-nav" aria-label="Navegação principal">
+      <button
+        class="nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="primary-navigation"
+        aria-label="Abrir menu"
+      >
+        <span class="nav-icon" aria-hidden="true"></span>
+      </button>
+      <div class="nav-links" id="primary-navigation">
+        <a href="index.html#home">Início</a>
+        <a href="all-products.html">Todos os produtos</a>
+        <a href="stores.html" aria-current="page">Nossas lojas</a>
+        <a href="index.html#offers">Ofertas especiais</a>
+        <a href="abous-us.html">Sobre nós</a>
+        <a href="contact%20us.html">Contacte-nos</a>
+      </div>
+    </nav>
+
+    <main>
+      <div class="stores-layout">
+        <section class="stores-intro" aria-labelledby="stores-title">
+          <div class="brand-lockup"><span>MUMUSO</span><span>ANGOLA</span></div>
+          <div class="stores-copy">
+            <p class="eyebrow">Encontre-nos em Luanda</p>
+            <h1 id="stores-title">A sua loja MUMUSO.</h1>
+            <p class="stores-description">
+              Visite-nos para descobrir produtos para o seu dia a dia, com estilo,
+              funcionalidade e valor.
+            </p>
+          </div>
+          <p class="stores-signoff">Uma loja em Angola</p>
+        </section>
+
+        <section class="store-card" aria-labelledby="store-name">
+          <div class="store-index">Angola / 01</div>
+          <h2 class="store-name" id="store-name">MUMUSO Luanda</h2>
+          <div class="store-detail">
+            <span class="store-detail-label">Morada</span>
+            <p>R. Amílcar Cabral 170<br />Luanda, Angola</p>
+          </div>
+          <a
+            class="map-link"
+            href="https://www.google.com/maps/search/?api=1&amp;query=R.%20Am%C3%ADlcar%20Cabral%20170%2C%20Luanda%2C%20Angola"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span>Ver direções</span>
+            <span class="map-arrow" aria-hidden="true">&#8599;</span>
+          </a>
+        </section>
+      </div>
+    </main>
+
+    <script>
+      const menuButton = document.querySelector(".nav-toggle");
+      const menu = document.querySelector(".nav-links");
+
+      const closeMenu = () => {
+        menuButton.setAttribute("aria-expanded", "false");
+        menuButton.setAttribute("aria-label", "Abrir menu");
+        menu.classList.remove("is-open");
+      };
+
+      menuButton.addEventListener("click", () => {
+        const isOpen = menuButton.getAttribute("aria-expanded") === "true";
+        menuButton.setAttribute("aria-expanded", String(!isOpen));
+        menuButton.setAttribute("aria-label", isOpen ? "Abrir menu" : "Fechar menu");
+        menu.classList.toggle("is-open", !isOpen);
+      });
+
+      menu.querySelectorAll("a").forEach((link) => {
+        link.addEventListener("click", closeMenu);
+      });
+
+      document.addEventListener("keydown", (event) => {
+        if (event.key === "Escape") closeMenu();
+      });
+
+      window.addEventListener("resize", () => {
+        if (window.innerWidth > 700) closeMenu();
+      });
+    </script>
+    <footer class="site-footer">
+      <p class="site-footer-copyright">&copy; 2026 MUMUSO ANGOLA. Todos os direitos reservados.</p>
+      <nav class="site-footer-socials" aria-label="Redes sociais">
+        <a href="https://www.instagram.com/mumusoangolaofficial/?hl=en" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5zm0 2a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3H7zm5 3.5A5.5 5.5 0 1 1 6.5 13 5.5 5.5 0 0 1 12 7.5zm0 2A3.5 3.5 0 1 0 15.5 13 3.5 3.5 0 0 0 12 9.5zm5.25-3.25a1.25 1.25 0 1 1-1.25 1.25 1.25 1.25 0 0 1 1.25-1.25z"/></svg>
+        </a>
+        <a href="https://wa.me/244922994922" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12.04 2a9.91 9.91 0 0 0-8.48 15.03L2 22l5.1-1.52A9.94 9.94 0 1 0 12.04 2Zm0 18.08a8.1 8.1 0 0 1-4.13-1.13l-.3-.18-3.03.9.91-2.95-.2-.31a8.13 8.13 0 1 1 6.75 3.67Zm4.46-6.09c-.24-.12-1.42-.7-1.64-.78-.22-.08-.38-.12-.54.12-.16.24-.62.78-.76.94-.14.16-.28.18-.52.06-.24-.12-1.02-.38-1.94-1.2-.72-.64-1.2-1.43-1.34-1.67-.14-.24-.02-.37.1-.49.1-.1.24-.28.36-.42.12-.14.16-.24.24-.4.08-.16.04-.3-.02-.42-.06-.12-.54-1.3-.74-1.78-.2-.47-.4-.4-.54-.4l-.46-.01c-.16 0-.42.06-.64.3-.22.24-.84.82-.84 2s.86 2.32.98 2.48c.12.16 1.7 2.6 4.12 3.64.58.25 1.03.4 1.38.51.58.18 1.1.16 1.52.1.46-.07 1.42-.58 1.62-1.14.2-.56.2-1.04.14-1.14-.06-.1-.22-.16-.46-.28Z"/></svg>
+        </a>
+      </nav>
+      <a class="site-footer-policy" href="privacy-policy.html">Política de privacidade</a>
+      <p class="site-footer-brand">MUMUSO ANGOLA</p>
+    </footer>
+  </body>
+</html>

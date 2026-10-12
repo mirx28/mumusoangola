@@ -1,0 +1,2312 @@
+[
+  {
+    "id": "beleza-001",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Loção Corporal Hidratante Perolada",
+    "price": 8644.347826086958,
+    "reference": "6932559606416",
+    "image": "public/beleza/beleza-001.jpg",
+    "images": [
+      "public/beleza/beleza-001.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-002",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Loção Nutritiva De Arroz",
+    "price": 6907.000000000001,
+    "reference": "6932559632828",
+    "image": "public/beleza/beleza-002.jpg",
+    "images": [
+      "public/beleza/beleza-002.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-003",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Loção Corporal Rejuvenescedora De Café",
+    "price": 8644.000000000002,
+    "reference": "6977321141979",
+    "image": "public/beleza/beleza-003.jpg",
+    "images": [
+      "public/beleza/beleza-003.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-004",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Loção Hidratante De Aloe Vera",
+    "price": 6907.000000000001,
+    "reference": "6976227001073",
+    "image": "public/beleza/beleza-004.jpg",
+    "images": [
+      "public/beleza/beleza-004.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-005",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Emulsão Hidratante De Aloé Vera",
+    "price": 6054.000000000001,
+    "reference": "6970760999521",
+    "image": "public/beleza/beleza-005.jpg",
+    "images": [
+      "public/beleza/beleza-005.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-006",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Creme Rejuvenescedor E Iluminador Com Vitamina C",
+    "price": 8644.000000000002,
+    "reference": "6976482090607",
+    "image": "public/beleza/beleza-006.jpg",
+    "images": [
+      "public/beleza/beleza-006.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-007",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Creme Nutritivo E Hidratante De Vaselina",
+    "price": 8644.000000000002,
+    "reference": "6976227001943",
+    "image": "public/beleza/beleza-007.jpg",
+    "images": [
+      "public/beleza/beleza-007.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-008",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Creme Para As Mãos Frutado (Cereja)",
+    "price": 2172.0000000000005,
+    "reference": "6975349063952",
+    "image": "public/beleza/beleza-008.jpg",
+    "images": [
+      "public/beleza/beleza-008.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-009",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Creme Hidratante Para As Mãos Com Fragrância Riverside Bloom Silhouette",
+    "price": 4344.000000000001,
+    "reference": "6977235262029",
+    "image": "public/beleza/beleza-009.jpg",
+    "images": [
+      "public/beleza/beleza-009.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-010",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Creme Para As Mãos (Pêssego Branco E Oolong)",
+    "price": 2172.0000000000005,
+    "reference": "6974439582281",
+    "image": "public/beleza/beleza-010.jpg",
+    "images": [
+      "public/beleza/beleza-010.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-011",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Esfoliante Facial Trip Series",
+    "price": 2563.0,
+    "reference": "6932559633054",
+    "image": "public/beleza/beleza-011.jpg",
+    "images": [
+      "public/beleza/beleza-011.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-012",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Geléia De Vitamina C Da Série Trip",
+    "price": 2563.0,
+    "reference": "6932559633993",
+    "image": "public/beleza/beleza-012.jpg",
+    "images": [
+      "public/beleza/beleza-012.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-013",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Gel De Banho Suavizante Trip Series Milk",
+    "price": 2563.0,
+    "reference": "6932559636543",
+    "image": "public/beleza/beleza-013.jpg",
+    "images": [
+      "public/beleza/beleza-013.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-014",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Condicionador Suavizante De Gengibre Da Série Trip",
+    "price": 2563.0,
+    "reference": "6932559639346",
+    "image": "public/beleza/beleza-014.jpg",
+    "images": [
+      "public/beleza/beleza-014.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-015",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Gel Iluminador E Esfoliante Com Vitamina C",
+    "price": 6516.0,
+    "reference": "6976482090355",
+    "image": "public/beleza/beleza-015.jpg",
+    "images": [
+      "public/beleza/beleza-015.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-016",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Gel Esfoliante Hidratante De Aloe Vera",
+    "price": 4344.000000000001,
+    "reference": "6970564804694",
+    "image": "public/beleza/beleza-016.jpg",
+    "images": [
+      "public/beleza/beleza-016.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-017",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Limpador Facial Com Controle De Óleo De Lama Vulcânica",
+    "price": 5946.0,
+    "reference": "6976227000649",
+    "image": "public/beleza/beleza-017.jpg",
+    "images": [
+      "public/beleza/beleza-017.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-018",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Mousse Hidratante Com Aminoácidos Para Remoção De Maquiagem E Limpeza Facial.",
+    "price": 8253.000000000002,
+    "reference": "6971710958896",
+    "image": "public/beleza/beleza-018.jpg",
+    "images": [
+      "public/beleza/beleza-018.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-019",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Mousse De Limpeza Facial Revitalizante De Abacate",
+    "price": 8030.000000000001,
+    "reference": "6932559696424",
+    "image": "public/beleza/beleza-019.jpg",
+    "images": [
+      "public/beleza/beleza-019.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-020",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Mousse De Limpeza Facial Com Pepino E Aminoácidos",
+    "price": 8644.000000000002,
+    "reference": "6975959830357",
+    "image": "public/beleza/beleza-020.jpg",
+    "images": [
+      "public/beleza/beleza-020.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-021",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Creme Para Tratamento De Acne Minimizador De Poros (0,5% De Ácido Salicílico)",
+    "price": 6907.000000000001,
+    "reference": "6976227001462",
+    "image": "public/beleza/beleza-021.jpg",
+    "images": [
+      "public/beleza/beleza-021.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-022",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Óleo Corporal Nutritivo (Pétalas De Veludo)",
+    "price": 12988.000000000002,
+    "reference": "6932559604801",
+    "image": "public/beleza/beleza-022.jpg",
+    "images": [
+      "public/beleza/beleza-022.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-023",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Óleo Corporal De Rosa",
+    "price": 5604.000000000001,
+    "reference": "6941347724973",
+    "image": "public/beleza/beleza-023.jpg",
+    "images": [
+      "public/beleza/beleza-023.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-024",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Óleo Corporal Hidratante De Oliva",
+    "price": 5604.000000000001,
+    "reference": "6976913294079",
+    "image": "public/beleza/beleza-024.jpg",
+    "images": [
+      "public/beleza/beleza-024.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-025",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Sais De Banho Suavizantes De Rosa",
+    "price": 12988.000000000002,
+    "reference": "6976482095206",
+    "image": "public/beleza/beleza-025.jpg",
+    "images": [
+      "public/beleza/beleza-025.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-026",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Gel De Banho Nutritivo Com Leite",
+    "price": 5592.000000000001,
+    "reference": "6970564809521",
+    "image": "public/beleza/beleza-026.jpg",
+    "images": [
+      "public/beleza/beleza-026.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-027",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Lenços Umedecidos Para Bebês (25 Unidades)",
+    "price": 1694.0,
+    "reference": "6975096199874",
+    "image": "public/beleza/beleza-027.jpg",
+    "images": [
+      "public/beleza/beleza-027.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-028",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Lenços Umedecidos Refrescantes (Menta)",
+    "price": 6516.0,
+    "reference": "6932559603903",
+    "image": "public/beleza/beleza-028.jpg",
+    "images": [
+      "public/beleza/beleza-028.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-029",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Lenços Umedecidos Descartáveis ​​No Vaso Sanitário",
+    "price": 4344.000000000001,
+    "reference": "6977321148749",
+    "image": "public/beleza/beleza-029.jpg",
+    "images": [
+      "public/beleza/beleza-029.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-030",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Bálsamo Labial Frutado Que Muda De Cor (03 Lichia)",
+    "price": 6516.0,
+    "reference": "6932559643497",
+    "image": "public/beleza/beleza-030.jpg",
+    "images": [
+      "public/beleza/beleza-030.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-031",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Bálsamo Labial De Morango",
+    "price": 4344.000000000001,
+    "reference": "6930249933811",
+    "image": "public/beleza/beleza-031.jpg",
+    "images": [
+      "public/beleza/beleza-031.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-032",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Bálsamo Labial Frutado Que Muda De Cor (02 Romã)",
+    "price": 6516.0,
+    "reference": "6932559646788",
+    "image": "public/beleza/beleza-032.jpg",
+    "images": [
+      "public/beleza/beleza-032.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-033",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Esponja De Maquiagem Com Estojo (Formato De Gota D'água/Rosa)",
+    "price": 2172.0000000000005,
+    "reference": "6974804562221",
+    "image": "public/beleza/beleza-033.jpg",
+    "images": [
+      "public/beleza/beleza-033.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-034",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Conjunto De Garrafas De Viagem Para A Volta Ao Mundo (11 Peças)",
+    "price": 8210.0,
+    "reference": "6970962428867",
+    "image": "public/beleza/beleza-034.jpg",
+    "images": [
+      "public/beleza/beleza-034.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-035",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Conjunto De Pincéis De Maquiagem Com Estojo De Armazenamento (Pacote Com 5)",
+    "price": 8644.000000000002,
+    "reference": "6941347720135",
+    "image": "public/beleza/beleza-035.jpg",
+    "images": [
+      "public/beleza/beleza-035.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-036",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Conjunto De Escovas De Dente Infantis Em Formato De Urso Fofo (8 Unidades)",
+    "price": 4344.000000000001,
+    "reference": "6976913294123",
+    "image": "public/beleza/beleza-036.jpg",
+    "images": [
+      "public/beleza/beleza-036.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-037",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Escovas De Dentes Antibacterianas Macias (Pacote Com 2)",
+    "price": 4735.0,
+    "reference": "6932559637748",
+    "image": "public/beleza/beleza-037.jpg",
+    "images": [
+      "public/beleza/beleza-037.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-038",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Raspador De Língua (Cinza)",
+    "price": 2997.0000000000005,
+    "reference": "6975349066250",
+    "image": "public/beleza/beleza-038.jpg",
+    "images": [
+      "public/beleza/beleza-038.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-039",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Raspador De Língua (Rosa)",
+    "price": 2997.0000000000005,
+    "reference": "6975349066267",
+    "image": "public/beleza/beleza-039.jpg",
+    "images": [
+      "public/beleza/beleza-039.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-040",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Pacote Econômico De Lâminas De Sobrancelha Dobráveis ​​(4 Unidades)",
+    "price": 4344.000000000001,
+    "reference": "6970760991938",
+    "image": "public/beleza/beleza-040.jpg",
+    "images": [
+      "public/beleza/beleza-040.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-041",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Conjunto De Lâmina De Barbear Para Homens Com 3 Lâminas (1 Cabo + 4 Recargas)",
+    "price": 4074.0000000000005,
+    "reference": "6975096192653",
+    "image": "public/beleza/beleza-041.jpg",
+    "images": [
+      "public/beleza/beleza-041.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-042",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Conjunto De 5 Lâminas De Barbear Femininas",
+    "price": 4375.0,
+    "reference": "6941347771083",
+    "image": "public/beleza/beleza-042.jpg",
+    "images": [
+      "public/beleza/beleza-042.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-043",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Portable Oral Irrigator",
+    "price": 32070.000000000004,
+    "reference": "f800",
+    "image": "public/beleza/beleza-043.jpg",
+    "images": [
+      "public/beleza/beleza-043.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-044",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Palitos De Fio Dental (Embalados Individualmente/50 Unidades)",
+    "price": 4735.0,
+    "reference": "6970760997459",
+    "image": "public/beleza/beleza-044.jpg",
+    "images": [
+      "public/beleza/beleza-044.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-045",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Palitos De Fio Dental (30 Unidades)",
+    "price": 1694.0,
+    "reference": "6975668395321",
+    "image": "public/beleza/beleza-045.jpg",
+    "images": [
+      "public/beleza/beleza-045.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-046",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Palitos De Fio Dental Ultrafinos (Pacote Com 100)",
+    "price": 4735.0,
+    "reference": "6973847431198",
+    "image": "public/beleza/beleza-046.jpg",
+    "images": [
+      "public/beleza/beleza-046.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-047",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Escova Interdental (Sss)",
+    "price": 5604.000000000001,
+    "reference": "6970760994922",
+    "image": "public/beleza/beleza-047.jpg",
+    "images": [
+      "public/beleza/beleza-047.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-048",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Palitos De Dente Portáteis Com Cerdas (60 Unidades)",
+    "price": 2563.0,
+    "reference": "6975668395338",
+    "image": "public/beleza/beleza-048.jpg",
+    "images": [
+      "public/beleza/beleza-048.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-049",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Palitos De Fio Dental Para Crianças (40 Unidades)",
+    "price": 4735.0,
+    "reference": "6976482092380",
+    "image": "public/beleza/beleza-049.jpg",
+    "images": [
+      "public/beleza/beleza-049.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-050",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Palitos De Fio Dental Com Rosca Plana - Cor Menta/80 Unidades",
+    "price": 4344.000000000001,
+    "reference": "6970760998135",
+    "image": "public/beleza/beleza-050.jpg",
+    "images": [
+      "public/beleza/beleza-050.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-051",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Palitos De Fio Dental Ultrafinos (Menta/50 Unidades)",
+    "price": 4344.000000000001,
+    "reference": "6977321141191",
+    "image": "public/beleza/beleza-051.jpg",
+    "images": [
+      "public/beleza/beleza-051.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-052",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Luva Autobronzeadora",
+    "price": 4344.000000000001,
+    "reference": "6932559618808",
+    "image": "public/beleza/beleza-052.jpg",
+    "images": [
+      "public/beleza/beleza-052.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-053",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Pacote Econômico De Cotonetes Portáteis (600 Unidades)",
+    "price": 5169.000000000001,
+    "reference": "6972072299009",
+    "image": "public/beleza/beleza-053.jpg",
+    "images": [
+      "public/beleza/beleza-053.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-054",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Varetas De Algodão De Bambu - 500",
+    "price": 4735.0,
+    "reference": "6970760999156",
+    "image": "public/beleza/beleza-054.jpg",
+    "images": [
+      "public/beleza/beleza-054.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-055",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Máscara Esfoliante Para Os Pés (Pata De Gato)",
+    "price": 3692.0000000000005,
+    "reference": "6941347735290",
+    "image": "public/beleza/beleza-055.jpg",
+    "images": [
+      "public/beleza/beleza-055.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-056",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Máscara Para As Mãos Vaseline Nutritiva E Hidratante",
+    "price": 3258.0,
+    "reference": "6976227001448",
+    "image": "public/beleza/beleza-056.jpg",
+    "images": [
+      "public/beleza/beleza-056.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-057",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Máscaras Calmantes Para Os Olhos De Pepino",
+    "price": 6821.0,
+    "reference": "6932559632071",
+    "image": "public/beleza/beleza-057.jpg",
+    "images": [
+      "public/beleza/beleza-057.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-058",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Máscaras Para Olhos Branqueadoras Com Vitamina C",
+    "price": 6821.0,
+    "reference": "6932559634068",
+    "image": "public/beleza/beleza-058.jpg",
+    "images": [
+      "public/beleza/beleza-058.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-059",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Máscara Facial Reparadora Com Astaxantina",
+    "price": 2172.0000000000005,
+    "reference": "6941347795157",
+    "image": "public/beleza/beleza-059.jpg",
+    "images": [
+      "public/beleza/beleza-059.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-060",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Máscara Facial Calmante E Hidratante De Aloe Vera",
+    "price": 2563.0,
+    "reference": "6975959830142",
+    "image": "public/beleza/beleza-060.jpg",
+    "images": [
+      "public/beleza/beleza-060.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "beleza-061",
+    "categoryId": "beleza",
+    "category": "Beleza",
+    "name": "Máscara Facial Hidratante De Limão Mumuso",
+    "price": 2563.0,
+    "reference": "6941347755212",
+    "image": "public/beleza/beleza-061.jpg",
+    "images": [
+      "public/beleza/beleza-061.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6941347711270",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Almofada Aquecedora De Mãos (Gatinho Fofo/Rosa)",
+    "price": 15204.0,
+    "reference": "6941347711270",
+    "image": "public/Brinquedos E Presentes/6941347711270_(2).jpeg_20261011231437.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6941347711270_(2).jpeg_20261011231437.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6975349060029",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Brinquedo Peluche (Coelhinho Pequeno/28 Cm)",
+    "price": 17315.0,
+    "reference": "6975349060029",
+    "image": "public/Brinquedos E Presentes/6975349060029.jpeg_20261011231455.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6975349060029.jpeg_20261011231455.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6976913291474",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Peluche (Urso Com Rosa/Rosa Claro/35 Cm)",
+    "price": 18148.000000000004,
+    "reference": "6976913291474",
+    "image": "public/Brinquedos E Presentes/6976913291474.jpeg_20261011231535.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6976913291474.jpeg_20261011231535.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6976913293287",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Peluche 30 Cm (Panda Fofo Com Maçã Em Posição De Agachado)",
+    "price": 15934.0,
+    "reference": "6976913293287",
+    "image": "public/Brinquedos E Presentes/6976913293287.jpeg_20261011231531.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6976913293287.jpeg_20261011231531.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6976913290323",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Pelúcia (Urso Branco Com Rosa/35 Cm)",
+    "price": 19089.0,
+    "reference": "6976913290323",
+    "image": "public/Brinquedos E Presentes/6976913290323.jpeg_20261011231540.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6976913290323.jpeg_20261011231540.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6976628016492",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Brinquedo De Peluche Super Macio De 25 Cm (Pinguim Rosa Com Lenço)",
+    "price": 16104.0,
+    "reference": "6976628016492",
+    "image": "public/Brinquedos E Presentes/6976628016492.jpeg_20261011231529.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6976628016492.jpeg_20261011231529.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6973020300402",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "MUMU-Plushtoy (Panda)-22cm",
+    "price": 9718.000000000002,
+    "reference": "6973020300402",
+    "image": "public/Brinquedos E Presentes/6973020300402.jpeg_20261011231448.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6973020300402.jpeg_20261011231448.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6975528762492",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Guitarra Mini Brinquedo (Baby Dinossauro/Rosa)",
+    "price": 5152.000000000001,
+    "reference": "6975528762492",
+    "image": "public/Brinquedos E Presentes/6975528762492.jpeg_20261011231507.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6975528762492.jpeg_20261011231507.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6974353474334",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Conjunto Argila De Modelagem Colorida (24 Cores)",
+    "price": 9474.000000000002,
+    "reference": "6974353474334",
+    "image": "public/Brinquedos E Presentes/6974353474334.jpeg_20261011231453.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6974353474334.jpeg_20261011231453.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6976628015518",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Pistola De Bolha Automática",
+    "price": 5509.000000000001,
+    "reference": "6976628015518",
+    "image": "public/Brinquedos E Presentes/6976628015518.jpeg_20261011231523.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6976628015518.jpeg_20261011231523.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6976227005309",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Cartões Para Colorir \"Faça Você Mesmo\" Com Adesivos De Pedras Preciosas (Rosa)",
+    "price": 6472.000000000001,
+    "reference": "6976227005309",
+    "image": "public/Brinquedos E Presentes/6976227005309.jpeg_20261011231516.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6976227005309.jpeg_20261011231516.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6932559611724",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Máquina De Bolhas Automática",
+    "price": 12988.000000000002,
+    "reference": "6932559611724",
+    "image": "public/Brinquedos E Presentes/6932559611724.jpeg_20261011231439.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6932559611724.jpeg_20261011231439.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6976482090126",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Conjunto De Estojo De Maquilhagem Giratório De 3 Camadas Para Menina",
+    "price": 20140.0,
+    "reference": "6976482090126",
+    "image": "public/Brinquedos E Presentes/6976482090126.jpeg_20261011231547.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6976482090126.jpeg_20261011231547.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6932559610314",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Máquina De Bolhas Em Formato De Câmera De Coelho Fofo",
+    "price": 17332.0,
+    "reference": "6932559610314",
+    "image": "public/Brinquedos E Presentes/6932559610314.jpeg_20261011231457.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6932559610314.jpeg_20261011231457.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6976227004685",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Projetor Inteligente Em Formato De Câmara Com Cores De Macaron, Sons E Luzes",
+    "price": 6014.000000000001,
+    "reference": "6976227004685",
+    "image": "public/Brinquedos E Presentes/6976227004685.jpeg_20261011231513.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6976227004685.jpeg_20261011231513.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6946692409506",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Conjunto De Brinquedos De Gravatas De 3 Peças",
+    "price": 6949.000000000001,
+    "reference": "6946692409506",
+    "image": "public/Brinquedos E Presentes/6946692409506.jpeg_20261011231446.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6946692409506.jpeg_20261011231446.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6977523135448",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Boneca Articulada Esférica De 16 Cm Com Chapéu Taiyaki (Vermelho)",
+    "price": 15816.000000000002,
+    "reference": "6977523135448",
+    "image": "public/Brinquedos E Presentes/6977523135448.jpeg_20261011231501.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6977523135448.jpeg_20261011231501.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6941347715674",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Linda Boneca Menina-A",
+    "price": 14334.0,
+    "reference": "6941347715674",
+    "image": "public/Brinquedos E Presentes/6941347715674.jpeg_20261011231442.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6941347715674.jpeg_20261011231442.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6970283822948",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Jogo De Arremesso De Basquetebol",
+    "price": 20140.0,
+    "reference": "6970283822948",
+    "image": "public/Brinquedos E Presentes/6970283822948.jpeg_20261011231451.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6970283822948.jpeg_20261011231451.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6977321141771",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Conjunto De Dardos De 36 Cm",
+    "price": 12068.000000000002,
+    "reference": "6977321141771",
+    "image": "public/Brinquedos E Presentes/6977321141771.jpeg_20261011231505.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6977321141771.jpeg_20261011231505.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6976227007266",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Conjunto De Mesa De Piscina Mini Para Crianças",
+    "price": 11059.000000000002,
+    "reference": "6976227007266",
+    "image": "public/Brinquedos E Presentes/6976227007266.jpeg_20261011231519.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6976227007266.jpeg_20261011231519.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6976628015556",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Kit De Pintura Em Gesso 3d (Foguete E Astronauta)",
+    "price": 8032.0,
+    "reference": "6976628015556",
+    "image": "public/Brinquedos E Presentes/6976628015556.jpeg_20261011231542.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6976628015556.jpeg_20261011231542.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6975528763741",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Mini Teclado Para Crianças (31 Teclas/Vermelho)",
+    "price": 20176.000000000004,
+    "reference": "6975528763741",
+    "image": "public/Brinquedos E Presentes/6975528763741.jpeg_20261011231510.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6975528763741.jpeg_20261011231510.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6975349061194",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Conjunto De Brinquedos De Raquete De Tênis E Badminton Para Crianças",
+    "price": 9475.0,
+    "reference": "6975349061194",
+    "image": "public/Brinquedos E Presentes/6975349061194.jpeg_20261011231515.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6975349061194.jpeg_20261011231515.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "brinquedos-presentes-6941347777917",
+    "categoryId": "brinquedos-presentes",
+    "category": "Brinquedos E Presentes",
+    "name": "Conjunto De Veículos De Polícia Pull Back (Pacote De 6)",
+    "price": 9718.000000000002,
+    "reference": "6941347777917",
+    "image": "public/Brinquedos E Presentes/6941347777917.jpeg_20261011231444.jpg",
+    "images": [
+      "public/Brinquedos E Presentes/6941347777917.jpeg_20261011231444.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6932559609769",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Garrafa De Água De Plástico Com Spray Para Crianças (Dinossauro) Paraíso/500 Ml/Azul)",
+    "price": 7946.0,
+    "reference": "6932559609769",
+    "image": "public/Casa E Cozinha/6932559609769.jpeg_20261012000039.jpg",
+    "images": [
+      "public/Casa E Cozinha/6932559609769.jpeg_20261012000039.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6932559695601",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "GARRAFA DE ÁGUA EM PLÁSTICO PORTÁTIL EM FORMA DE ABACATE COM INFUSO (VERDE/800 Ml)",
+    "price": 14490.000000000002,
+    "reference": "6932559695601",
+    "image": "public/Casa E Cozinha/6932559695601.jpeg_20261012000011.jpg",
+    "images": [
+      "public/Casa E Cozinha/6932559695601.jpeg_20261012000011.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6977321149883",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Garrafa De Água Em Plástico Com Tampa Flip-Top (Cão Fofo/Azul/650ml)",
+    "price": 12068.000000000002,
+    "reference": "6977321149883",
+    "image": "public/Casa E Cozinha/mumuso-09-bottle-blue-puppy.jpg_20261012151900.jpg",
+    "images": [
+      "public/Casa E Cozinha/mumuso-09-bottle-blue-puppy.jpg_20261012151900.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6976628014290",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Copo Com Tampa E Canudo (700 Ml/Roxo)",
+    "price": 8644.000000000002,
+    "reference": "6976628014290",
+    "image": "public/Casa E Cozinha/6976628014290.jpeg_20261011235931.jpg",
+    "images": [
+      "public/Casa E Cozinha/6976628014290.jpeg_20261011235931.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6976913296509",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "PLÁSTICO Copo Térmico Com Tampa Flip-Top (Branco/450 Ml)",
+    "price": 14490.000000000002,
+    "reference": "6976913296509",
+    "image": "public/Casa E Cozinha/6976913296509.jpeg_20261011235922.jpg",
+    "images": [
+      "public/Casa E Cozinha/6976913296509.jpeg_20261011235922.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6976913296516",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Copo Em Plástico Com Tampa Flip-Top (Rosa/450 Ml)",
+    "price": 14490.000000000002,
+    "reference": "6976913296516",
+    "image": "public/Casa E Cozinha/6976913296516.jpeg_20261011235927.jpg",
+    "images": [
+      "public/Casa E Cozinha/6976913296516.jpeg_20261011235927.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6976913296493",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Copo Térmico Em Plástico Com Tampa Articulada (Preta/450 Ml)",
+    "price": 14490.000000000002,
+    "reference": "6976913296493",
+    "image": "public/Casa E Cozinha/6976913296493.jpeg_20261011235933.jpg",
+    "images": [
+      "public/Casa E Cozinha/6976913296493.jpeg_20261011235933.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6976628014313",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Copo Térmico Com Relevo Em Formato De Balança E Canudo (700 Ml/Branco)",
+    "price": 11251.0,
+    "reference": "6976628014313",
+    "image": "public/Casa E Cozinha/mumuso-06-tumbler-silver-mermaid.jpg_20261012151855.jpg",
+    "images": [
+      "public/Casa E Cozinha/mumuso-06-tumbler-silver-mermaid.jpg_20261012151855.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6976628014221",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Garrafa De Água Portátil Em Plástico (Rosa/550 ML)",
+    "price": 10453.000000000002,
+    "reference": "6976628014221",
+    "image": "public/Casa E Cozinha/mumuso-04-water-bottle-pink.jpg_20261012151908.jpg",
+    "images": [
+      "public/Casa E Cozinha/mumuso-04-water-bottle-pink.jpg_20261012151908.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6932559604467",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Garrafa De Água De Plástico Com Palhinha Para Crianças (Unicórnio Sonhador/500 Ml/Roxo)",
+    "price": 7946.0,
+    "reference": "6932559604467",
+    "image": "public/Casa E Cozinha/6932559604467.jpeg_20261012000043.jpg",
+    "images": [
+      "public/Casa E Cozinha/6932559604467.jpeg_20261012000043.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6932559668698",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Garrafa De Água De Plástico Da Série Floral Com Alça (1000 Ml/Roxa)",
+    "price": 12988.000000000002,
+    "reference": "6932559668698",
+    "image": "public/Casa E Cozinha/6932559668698.jpeg_20261012000020.jpg",
+    "images": [
+      "public/Casa E Cozinha/6932559668698.jpeg_20261012000020.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6932559610239",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Lancheira De 2 Pisos (Unicórnio Sonhador/Roxo/750 Ml)",
+    "price": 8745.0,
+    "reference": "6932559610239",
+    "image": "public/Casa E Cozinha/6932559610239.jpeg_20261012000033.jpg",
+    "images": [
+      "public/Casa E Cozinha/6932559610239.jpeg_20261012000033.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6932559611601",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Lancheira Com 2 Pisos (Paraíso Dos Dinossauros/Azul/750 Ml)",
+    "price": 8745.0,
+    "reference": "6932559611601",
+    "image": "public/Casa E Cozinha/6932559611601.jpeg_20261012000031.jpg",
+    "images": [
+      "public/Casa E Cozinha/6932559611601.jpeg_20261012000031.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6977084552623",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Lancheira Em Plástico Com 5 Compartimentos (Veículos De Desenho Animado/Azul)",
+    "price": 16104.0,
+    "reference": "6977084552623",
+    "image": "public/Casa E Cozinha/mumuso-08-lunchbox-5comp-cars.jpg_20261012151851.jpg",
+    "images": [
+      "public/Casa E Cozinha/mumuso-08-lunchbox-5comp-cars.jpg_20261012151851.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-bj-082",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Lancheira Térmica",
+    "price": 15718.000000000002,
+    "reference": "bj-082",
+    "image": "public/Casa E Cozinha/Bj-082.jpeg_20261012000047.jpg",
+    "images": [
+      "public/Casa E Cozinha/Bj-082.jpeg_20261012000047.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6976628015907",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Conjunto De Lancheira Portátil Em Fibra De Trigo - Rosa",
+    "price": 7225.000000000001,
+    "reference": "6976628015907",
+    "image": "public/Casa E Cozinha/mumuso-07-wheat-fiber-lunchbox-set.jpg_20261012151840.jpg",
+    "images": [
+      "public/Casa E Cozinha/mumuso-07-wheat-fiber-lunchbox-set.jpg_20261012151840.jpg",
+      "public/Casa E Cozinha/mumuso-11-lunchbox-set-4colours.jpg_20261012151847.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6932559613179",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Lancheira Hermética (Unicórnio Dos Sonhos/Roxo/800 Ml)",
+    "price": 7946.0,
+    "reference": "6932559613179",
+    "image": "public/Casa E Cozinha/6932559613179.jpeg_20261012000007.jpg",
+    "images": [
+      "public/Casa E Cozinha/6932559613179.jpeg_20261012000007.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6976227002728",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Caixa De Almoço Em Aço Inoxidável Com 3 Compartimentos (Sereia/Roxo)",
+    "price": 16768.000000000004,
+    "reference": "6976227002728",
+    "image": "public/Casa E Cozinha/mumuso-03-steel-lunchbox-mermaid.jpg_20261012151853.jpg",
+    "images": [
+      "public/Casa E Cozinha/mumuso-03-steel-lunchbox-mermaid.jpg_20261012151853.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6975528763512",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Garrafa De Água Big Belly Com Mini Garrafa E Alça-Verde 5 LTR",
+    "price": 47310.00000000001,
+    "reference": "6975528763512",
+    "image": "public/Casa E Cozinha/6975528763512.jpeg_20261011235946.jpg",
+    "images": [
+      "public/Casa E Cozinha/6975528763512.jpeg_20261011235946.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6932559695625",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Copo Térmico De Abacate Com Palhinha (Verde/700 Ml)",
+    "price": 20140.0,
+    "reference": "6932559695625",
+    "image": "public/Casa E Cozinha/6932559695625.jpeg_20261012000002.jpg",
+    "images": [
+      "public/Casa E Cozinha/6932559695625.jpeg_20261012000002.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6932559669794",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Copo Térmico Macaron Series De Grande Capacidade Com Alça (1200 Ml/Bege)",
+    "price": 26020.000000000004,
+    "reference": "6932559669794",
+    "image": "public/Casa E Cozinha/6932559669794.jpeg_20261012000013.jpg",
+    "images": [
+      "public/Casa E Cozinha/6932559669794.jpeg_20261012000013.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6932559664898",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Copo Térmico Portátil Da Linha Floral Series (600 Ml/Rosa)",
+    "price": 24283.000000000004,
+    "reference": "6932559664898",
+    "image": "public/Casa E Cozinha/6932559664898.jpeg_20261012000024.jpg",
+    "images": [
+      "public/Casa E Cozinha/6932559664898.jpeg_20261012000024.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6977523139248",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "GARRAFA TÉRMICA COM COPO (CACHORRO FOFO/Azul/450 Ml)",
+    "price": 20140.0,
+    "reference": "6977523139248",
+    "image": "public/Casa E Cozinha/mumuso-10-thermos-blue-puppy.jpg_20261012151858.jpg",
+    "images": [
+      "public/Casa E Cozinha/mumuso-10-thermos-blue-puppy.jpg_20261012151858.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6977523139651",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Garrafa Térmica Com Copo (Gato Fofo/Roxo/450 Ml)",
+    "price": 20140.0,
+    "reference": "6977523139651",
+    "image": "public/Casa E Cozinha/mumuso-12-thermos-purple-cat.jpg_20261012151843.jpg",
+    "images": [
+      "public/Casa E Cozinha/mumuso-12-thermos-purple-cat.jpg_20261012151843.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6941347701226",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Ganchos De Ferro Adesivos (Amor)",
+    "price": 4344.000000000001,
+    "reference": "6941347701226",
+    "image": "public/Casa E Cozinha/6941347701226.jpeg_20261011235959.jpg",
+    "images": [
+      "public/Casa E Cozinha/6941347701226.jpeg_20261011235959.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6932559659337",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Lenços Umedecidos Para Limpeza De Vaso Sanitário",
+    "price": 2997.0000000000005,
+    "reference": "6932559659337",
+    "image": "public/Casa E Cozinha/6932559659337.jpeg_20261012000015.jpg",
+    "images": [
+      "public/Casa E Cozinha/6932559659337.jpeg_20261012000015.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6976482096951",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Limpadores Para Vaso Sanitário (6 Comprimidos)",
+    "price": 5604.000000000001,
+    "reference": "6976482096951",
+    "image": "public/Casa E Cozinha/6976482096951.jpeg_20261011235935.jpg",
+    "images": [
+      "public/Casa E Cozinha/6976482096951.jpeg_20261011235935.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6972072294271",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Kit De Limpeza De Calçado Branco",
+    "price": 6054.000000000001,
+    "reference": "6972072294271",
+    "image": "public/Casa E Cozinha/mumuso-02-shoe-cleaning-kit.jpg_20261012151911.jpg",
+    "images": [
+      "public/Casa E Cozinha/mumuso-02-shoe-cleaning-kit.jpg_20261012151911.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6971068984882",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Pacote Com 6 Unidades De Limpador De Vaso Sanitário Em Bolhas Azuis",
+    "price": 4344.000000000001,
+    "reference": "6971068984882",
+    "image": "public/Casa E Cozinha/6971068984882.jpeg_20261011235952.jpg",
+    "images": [
+      "public/Casa E Cozinha/6971068984882.jpeg_20261011235952.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6941347762135",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Mangas Para Braço De Refrigeração De Proteção Solar - Brancas",
+    "price": 3127.0000000000005,
+    "reference": "6941347762135",
+    "image": "public/Casa E Cozinha/6941347762135.jpeg_20261012000005.jpg",
+    "images": [
+      "public/Casa E Cozinha/6941347762135.jpeg_20261012000005.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6973847430504",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Cabides Antiderrapantes Com Ganchos À Prova De Vento (Pacote Com 5)",
+    "price": 6472.000000000001,
+    "reference": "6973847430504",
+    "image": "public/Casa E Cozinha/6973847430504.jpeg_20261011235949.jpg",
+    "images": [
+      "public/Casa E Cozinha/6973847430504.jpeg_20261011235949.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6975668390920",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Rolo Higiênico Em Formato De T (Roxo)",
+    "price": 4344.000000000001,
+    "reference": "6975668390920",
+    "image": "public/Casa E Cozinha/mumuso-01-lint-roller.jpg_20261012151912.jpg",
+    "images": [
+      "public/Casa E Cozinha/mumuso-01-lint-roller.jpg_20261012151912.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6941347777474",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Rolo De Tirar Pelos - Rosa",
+    "price": 4735.0,
+    "reference": "6941347777474",
+    "image": "public/Casa E Cozinha/6941347777474.jpeg_20261011235955.jpg",
+    "images": [
+      "public/Casa E Cozinha/6941347777474.jpeg_20261011235955.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6976227008409",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Kit De Costura De Desenho Animado (Rosa/P)",
+    "price": 4344.000000000001,
+    "reference": "6976227008409",
+    "image": "public/Casa E Cozinha/6976227008409_(2).jpeg_20261011235942.jpg",
+    "images": [
+      "public/Casa E Cozinha/6976227008409_(2).jpeg_20261011235942.jpg",
+      "public/Casa E Cozinha/6976227008409.jpeg_20261011235938.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "casa-cozinha-6976628014283",
+    "categoryId": "casa-cozinha",
+    "category": "Casa E Cozinha",
+    "name": "Produto por confirmar",
+    "price": null,
+    "reference": "6976628014283",
+    "image": "public/Casa E Cozinha/mumuso-05-tumbler-pink-gameover.jpg_20261012151904.jpg",
+    "images": [
+      "public/Casa E Cozinha/mumuso-05-tumbler-pink-gameover.jpg_20261012151904.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "chaveiros-6976227004227",
+    "categoryId": "chaveiros",
+    "category": "Chaveiros",
+    "name": "Pingente De Bolsa (Gato Com Flor/Marrom)",
+    "price": 5509.000000000001,
+    "reference": "6976227004227",
+    "image": "public/Chaveiros/6976227004227..jpeg_2K_20261011211742.jpg",
+    "images": [
+      "public/Chaveiros/6976227004227..jpeg_2K_20261011211742.jpg",
+      "public/Chaveiros/6976227004227.jpeg_2K_20261011211752.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "chaveiros-6975959834966",
+    "categoryId": "chaveiros",
+    "category": "Chaveiros",
+    "name": "Pingente Bolsa De Polvo Fofo (Cinza)",
+    "price": 5610.0,
+    "reference": "6975959834966",
+    "image": "public/Chaveiros/6975959834966.jpeg_2K_20261011211738.jpg",
+    "images": [
+      "public/Chaveiros/6975959834966.jpeg_2K_20261011211738.jpg",
+      "public/Chaveiros/6975959834966..jpeg_2K_20261011211747.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "chaveiros-6976227004234",
+    "categoryId": "chaveiros",
+    "category": "Chaveiros",
+    "name": "Pingente De Bolsa (Gato Com Capuz/Cinza)",
+    "price": 6303.0,
+    "reference": "6976227004234",
+    "image": "public/Chaveiros/6976227004234.jpeg_2K_20261011211800.jpg",
+    "images": [
+      "public/Chaveiros/6976227004234.jpeg_2K_20261011211800.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "chaveiros-6976227004241",
+    "categoryId": "chaveiros",
+    "category": "Chaveiros",
+    "name": "Produto por confirmar",
+    "price": null,
+    "reference": "6976227004241",
+    "image": "public/Chaveiros/6976227004241.jpeg_2K_20261011211759.jpg",
+    "images": [
+      "public/Chaveiros/6976227004241.jpeg_2K_20261011211759.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6932559669633",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Fones De Ouvido Sem Fio Com Faixa Para O Pescoço - Rosa",
+    "price": 17332.0,
+    "reference": "6932559669633",
+    "image": "public/Eletrónica E Aparelhos/6932559669633.jpeg_20261012150756.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6932559669633.jpeg_20261012150756.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6976227004180",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Fones De Ouvido Supra-Auriculares Da Moda Com Orelhas De Gato (Rosa)",
+    "price": 26020.000000000004,
+    "reference": "6976227004180",
+    "image": "public/Eletrónica E Aparelhos/6976227004180.jpeg_20261012151230.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6976227004180.jpeg_20261012151230.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6932559633030",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Mini Auscultadores Sem Fios Deslumbrantes (Rosa)",
+    "price": 32248.0,
+    "reference": "6932559633030",
+    "image": "public/Eletrónica E Aparelhos/6932559633030.jpeg_20261012150822.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6932559633030.jpeg_20261012150822.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6932559638226",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Mini Auscultadores Sem Fio (Preto)",
+    "price": 32248.0,
+    "reference": "6932559638226",
+    "image": "public/Eletrónica E Aparelhos/6932559638226.jpeg_20261012150827.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6932559638226.jpeg_20261012150827.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6932559638424",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Auscultadores Sem Fio Abertos (Bege)",
+    "price": 32248.0,
+    "reference": "6932559638424",
+    "image": "public/Eletrónica E Aparelhos/6932559638424.jpeg_20261012150820.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6932559638424.jpeg_20261012150820.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6932559605198",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Alto-Falante Sem Fio Verdadeiro 3D Com Luzes Coloridas",
+    "price": 39600.0,
+    "reference": "6932559605198",
+    "image": "public/Eletrónica E Aparelhos/6932559605198.jpeg_20261012150802.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6932559605198.jpeg_20261012150802.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6977084550360",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Coluna De Som Sem Fios M9 - Preta",
+    "price": 24176.000000000004,
+    "reference": "6977084550360",
+    "image": "public/Eletrónica E Aparelhos/6977084550360.jpeg_20261012151500.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6977084550360.jpeg_20261012151500.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6975349067448",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Fones De Ouvido Intra-Auriculares Com Fio E Conector Lightning (Preto)",
+    "price": 16029.0,
+    "reference": "6975349067448",
+    "image": "public/Eletrónica E Aparelhos/6975349067448.jpeg_20261012151210.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6975349067448.jpeg_20261012151210.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6976482090171",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Fones De Ouvido Moda Para Sono Com Conector Tipo C (Branco)",
+    "price": 13041.0,
+    "reference": "6976482090171",
+    "image": "public/Eletrónica E Aparelhos/6976482090171.jpeg_20261012151227.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6976482090171.jpeg_20261012151227.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6932559667257",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Mini Ventilador Turbo Portátil - Rosa",
+    "price": 8644.000000000002,
+    "reference": "6932559667257",
+    "image": "public/Eletrónica E Aparelhos/6932559667257.jpeg_20261012150811.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6932559667257.jpeg_20261012150811.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6932559619256",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Mini Ventilador Portátil Circulador De Ar (Cachorro Fofo)",
+    "price": 15595.000000000002,
+    "reference": "6932559619256",
+    "image": "public/Eletrónica E Aparelhos/6932559619256.jpeg_20261012150831.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6932559619256.jpeg_20261012150831.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6932559615470",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Ventilador Portátil Com Pulverizador - Branco",
+    "price": 12068.000000000002,
+    "reference": "6932559615470",
+    "image": "public/Eletrónica E Aparelhos/6932559615470.jpeg_20261012150816.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6932559615470.jpeg_20261012150816.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6976227007211",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Suporte Para Celular Com Rotação De 360° Para Mesa (Branco)",
+    "price": 6907.000000000001,
+    "reference": "6976227007211",
+    "image": "public/Eletrónica E Aparelhos/6976227007211.jpeg_20261012151224.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6976227007211.jpeg_20261012151224.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6976628015952",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Suporte Dobrável Para Telemóvel Para Automóvel Com Ventosa",
+    "price": 12068.000000000002,
+    "reference": "6976628015952",
+    "image": "public/Eletrónica E Aparelhos/6976628015952.jpeg_20261012151508.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6976628015952.jpeg_20261012151508.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6976227005163",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Cabo Lightning Para USB-A De Silicone Líquido (Branco/2 M)",
+    "price": 9948.000000000002,
+    "reference": "6976227005163",
+    "image": "public/Eletrónica E Aparelhos/6976227005163.jpeg_20261012151219.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6976227005163.jpeg_20261012151219.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6975959830890",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Cabo Lightning Para USB (Carregamento Rápido PD De 20 W/Branco)",
+    "price": 8664.000000000002,
+    "reference": "6975959830890",
+    "image": "public/Eletrónica E Aparelhos/6975959830890.jpeg_20261012151205.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6975959830890.jpeg_20261012151205.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6976482090928",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Candeeiro Recarregável Recarregável Com Clipe (Branco)",
+    "price": 13682.0,
+    "reference": "6976482090928",
+    "image": "public/Eletrónica E Aparelhos/6976482090928.jpeg_20261012151232.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6976482090928.jpeg_20261012151232.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6932559642223",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Luminária De Mesa Urso Estudioso (Rosa)",
+    "price": 9948.000000000002,
+    "reference": "6932559642223",
+    "image": "public/Eletrónica E Aparelhos/6932559642223.jpeg_20261012150813.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6932559642223.jpeg_20261012150813.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6976482090935",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Luz De Encaixe Recarregável Com Bico De Pato (Branca)",
+    "price": 13536.0,
+    "reference": "6976482090935",
+    "image": "public/Eletrónica E Aparelhos/6976482090935.jpeg_20261012151538.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6976482090935.jpeg_20261012151538.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6975959838209",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Teclado Sem Fio Recarregável (Prata)",
+    "price": 34708.0,
+    "reference": "6975959838209",
+    "image": "public/Eletrónica E Aparelhos/6975959838209.jpeg_20261012151214.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6975959838209.jpeg_20261012151214.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6932559668537",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Mousepad Gamer Grande - Gato Brincalhão",
+    "price": 6907.000000000001,
+    "reference": "6932559668537",
+    "image": "public/Eletrónica E Aparelhos/6932559668537.jpeg_20261012150807.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6932559668537.jpeg_20261012150807.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-wm",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Wireless Mouse With Bl",
+    "price": 5288.0,
+    "reference": "wm",
+    "image": "public/Eletrónica E Aparelhos/WM.jpeg_20261012151505.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/WM.jpeg_20261012151505.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6971291282908",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Pacote Com 8 Pilhas Alcalinas AAA Sem Mercúrio - Verde",
+    "price": 5169.000000000001,
+    "reference": "6971291282908",
+    "image": "public/Eletrónica E Aparelhos/6971291282908.jpeg_20261012151202.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6971291282908.jpeg_20261012151202.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6971291282861",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Pacote Com 8 Pilhas Alcalinas AA Sem Mercúrio - Verde",
+    "price": 5169.000000000001,
+    "reference": "6971291282861",
+    "image": "public/Eletrónica E Aparelhos/6971291282861.jpeg_20261012150804.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6971291282861.jpeg_20261012150804.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6975959835659",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Banco De Potência Portátil 3 Em 1 Com Cabos (10000 Mah/Rosa)",
+    "price": 34050.0,
+    "reference": "6975959835659",
+    "image": "public/Eletrónica E Aparelhos/6975959835659.jpeg_20261012151208.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6975959835659.jpeg_20261012151208.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6975959835642",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Banco De Potência Portátil 3 Em 1 Com Cabos (10000 Mah/Branco)",
+    "price": 34050.0,
+    "reference": "6975959835642",
+    "image": "public/Eletrónica E Aparelhos/6975959835642.jpeg_20261012151212.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6975959835642.jpeg_20261012151212.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-693255665680",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Produto por confirmar",
+    "price": null,
+    "reference": "693255665680",
+    "image": "public/Eletrónica E Aparelhos/693255665680.jpeg_20261012150800.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/693255665680.jpeg_20261012150800.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "eletronica-aparelhos-6976227004166",
+    "categoryId": "eletronica-aparelhos",
+    "category": "Eletrónica E Aparelhos",
+    "name": "Produto por confirmar",
+    "price": null,
+    "reference": "6976227004166",
+    "image": "public/Eletrónica E Aparelhos/6976227004166.jpeg_20261012151217.jpg",
+    "images": [
+      "public/Eletrónica E Aparelhos/6976227004166.jpeg_20261012151217.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "papelaria-6977321142747",
+    "categoryId": "papelaria",
+    "category": "Papelaria",
+    "name": "Caderno A5 Com Capa De Couro (Preto)",
+    "price": 6472.000000000001,
+    "reference": "6977321142747",
+    "image": "public/Papelaria/6977321142747.jpeg_20261011212700.jpg",
+    "images": [
+      "public/Papelaria/6977321142747.jpeg_20261011212700.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "papelaria-6932559665567",
+    "categoryId": "papelaria",
+    "category": "Papelaria",
+    "name": "Canetas Marcadoras De Ponta Dupla Com 12 Cores",
+    "price": 5604.000000000001,
+    "reference": "6932559665567",
+    "image": "public/Papelaria/6932559665567.jpeg_20261011212704.jpg",
+    "images": [
+      "public/Papelaria/6932559665567.jpeg_20261011212704.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "papelaria-6977523130832",
+    "categoryId": "papelaria",
+    "category": "Papelaria",
+    "name": "Conjunto De Colorir Com Caneta Aquarela (Dinossauro)",
+    "price": 3866.0,
+    "reference": "6977523130832",
+    "image": "public/Papelaria/6977523130832..jpeg_20261011212714.jpg",
+    "images": [
+      "public/Papelaria/6977523130832..jpeg_20261011212714.jpg",
+      "public/Papelaria/6977523130832.jpeg_20261011212716.jpg",
+      "public/Casa E Cozinha/6977523130832...jpeg_20261011212720.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "papelaria-6976227006719",
+    "categoryId": "papelaria",
+    "category": "Papelaria",
+    "name": "Lápis De Cor Em Caixa (24 Cores)",
+    "price": 7492.0,
+    "reference": "6976227006719",
+    "image": "public/Papelaria/6976227006719..jpeg_20261011212709.jpg",
+    "images": [
+      "public/Papelaria/6976227006719..jpeg_20261011212709.jpg",
+      "public/Papelaria/6976227006719.jpeg_20261011212657.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "papelaria-6932559605259",
+    "categoryId": "papelaria",
+    "category": "Papelaria",
+    "name": "Caderno De Exercícios De Rastreamento De Números",
+    "price": 2563.0,
+    "reference": "6932559605259",
+    "image": "public/Papelaria/6932559605259.jpeg_20261011212653.jpg",
+    "images": [
+      "public/Papelaria/6932559605259.jpeg_20261011212653.jpg",
+      "public/Papelaria/6932559605259..jpeg_20261011212643.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "papelaria-6932559604009",
+    "categoryId": "papelaria",
+    "category": "Papelaria",
+    "name": "Caderno De Exercícios De Traçado Do Alfabeto",
+    "price": 2563.0,
+    "reference": "6932559604009",
+    "image": "public/Papelaria/6932559604009..jpeg_2K_20261011212534.jpg",
+    "images": [
+      "public/Papelaria/6932559604009..jpeg_2K_20261011212534.jpg",
+      "public/Papelaria/6932559604009.jpeg_2K_20261011212550.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "pastas-viagem-6976227003237",
+    "categoryId": "pastas-viagem",
+    "category": "Pastas E Artigos De Viagem",
+    "name": "Conjunto De 6 Bolsas Organizadoras (Cinza)",
+    "price": 16104.0,
+    "reference": "6976227003237",
+    "image": "public/Pastas E Artigos De Viagem/6976227003237.jpeg_20261011213330.jpg",
+    "images": [
+      "public/Pastas E Artigos De Viagem/6976227003237.jpeg_20261011213330.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "pastas-viagem-6941347718781",
+    "categoryId": "pastas-viagem",
+    "category": "Pastas E Artigos De Viagem",
+    "name": "Bolsa De Peito (Preta)",
+    "price": 18636.000000000004,
+    "reference": "6941347718781",
+    "image": "public/Pastas E Artigos De Viagem/6941347718781.jpeg_20261011213305.jpg",
+    "images": [
+      "public/Pastas E Artigos De Viagem/6941347718781.jpeg_20261011213305.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "pastas-viagem-6977523134700",
+    "categoryId": "pastas-viagem",
+    "category": "Pastas E Artigos De Viagem",
+    "name": "Nécessaire De Viagem Portátil De 2 Camadas Para Cosméticos - Cinza",
+    "price": 15595.000000000002,
+    "reference": "6977523134700",
+    "image": "public/Pastas E Artigos De Viagem/6977523134700.jpeg_20261011213322.jpg",
+    "images": [
+      "public/Pastas E Artigos De Viagem/6977523134700.jpeg_20261011213322.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "pastas-viagem-6941347737348",
+    "categoryId": "pastas-viagem",
+    "category": "Pastas E Artigos De Viagem",
+    "name": "Estojo De Cosméticos (Tecido Jacquard/Preto)",
+    "price": 9948.000000000002,
+    "reference": "6941347737348",
+    "image": "public/Pastas E Artigos De Viagem/6941347737348.jpeg_20261011213311.jpg",
+    "images": [
+      "public/Pastas E Artigos De Viagem/6941347737348.jpeg_20261011213311.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "pastas-viagem-6975959833679",
+    "categoryId": "pastas-viagem",
+    "category": "Pastas E Artigos De Viagem",
+    "name": "Estojo De Cosméticos Xadrez (Camelo)",
+    "price": 11251.0,
+    "reference": "6975959833679",
+    "image": "public/Pastas E Artigos De Viagem/6975959833679.jpeg_20261011213325.jpg",
+    "images": [
+      "public/Pastas E Artigos De Viagem/6975959833679.jpeg_20261011213325.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "pastas-viagem-6932559649529",
+    "categoryId": "pastas-viagem",
+    "category": "Pastas E Artigos De Viagem",
+    "name": "Porta-Cartões Minimalista Em Couro PU (Curto/Rosa)",
+    "price": 8644.000000000002,
+    "reference": "6932559649529",
+    "image": "public/Pastas E Artigos De Viagem/6932559649529.jpeg_20261011213300.jpg",
+    "images": [
+      "public/Pastas E Artigos De Viagem/6932559649529.jpeg_20261011213300.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "pastas-viagem-6977321146370",
+    "categoryId": "pastas-viagem",
+    "category": "Pastas E Artigos De Viagem",
+    "name": "Bolsa Portátil Para Laptop Empresarial Com Alça De Ombro - Rosa",
+    "price": 23744.0,
+    "reference": "6977321146370",
+    "image": "public/Pastas E Artigos De Viagem/6977321146370.jpeg_20261011213318.jpg",
+    "images": [
+      "public/Pastas E Artigos De Viagem/6977321146370.jpeg_20261011213318.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "pastas-viagem-6970760999972",
+    "categoryId": "pastas-viagem",
+    "category": "Pastas E Artigos De Viagem",
+    "name": "Conjunto De 4 Sacos Para Roupa Suja",
+    "price": 6907.000000000001,
+    "reference": "6970760999972",
+    "image": "public/Pastas E Artigos De Viagem/6970760999972.jpeg_20261011213308.jpg",
+    "images": [
+      "public/Pastas E Artigos De Viagem/6970760999972.jpeg_20261011213308.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "pastas-viagem-6970283828766",
+    "categoryId": "pastas-viagem",
+    "category": "Pastas E Artigos De Viagem",
+    "name": "Bolsa Térmica Portátil Para Lanche (Rosa)",
+    "price": 6907.000000000001,
+    "reference": "6970283828766",
+    "image": "public/Pastas E Artigos De Viagem/6970283828766.jpeg_20261011213337.jpg",
+    "images": [
+      "public/Pastas E Artigos De Viagem/6970283828766.jpeg_20261011213337.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "pastas-viagem-6932559628296",
+    "categoryId": "pastas-viagem",
+    "category": "Pastas E Artigos De Viagem",
+    "name": "Travesseiro De Pescoço Em Formato De U Com Espuma Viscoelástica E Capuz (Coelho)",
+    "price": 21676.000000000004,
+    "reference": "6932559628296",
+    "image": "public/Pastas E Artigos De Viagem/6932559628296.jpeg_20261011213253.jpg",
+    "images": [
+      "public/Pastas E Artigos De Viagem/6932559628296.jpeg_20261011213253.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "pastas-viagem-6932559626346",
+    "categoryId": "pastas-viagem",
+    "category": "Pastas E Artigos De Viagem",
+    "name": "Travesseiro De Pescoço Em Formato De U Com Espuma Viscoelástica E Capuz (Panda)",
+    "price": 21676.000000000004,
+    "reference": "6932559626346",
+    "image": "public/Pastas E Artigos De Viagem/6932559626346.jpeg_20261011213257.jpg",
+    "images": [
+      "public/Pastas E Artigos De Viagem/6932559626346.jpeg_20261011213257.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "saco-presente-6976913290743",
+    "categoryId": "saco-presente",
+    "category": "Saco De Presente",
+    "name": "Sacola De Presente Com Estampa De Coração Em Foil (Rosa/P)",
+    "price": 2129.0,
+    "reference": "6976913290743",
+    "image": "public/Saco De Presente/6976913290743.jpeg_20261011213800.jpg",
+    "images": [
+      "public/Saco De Presente/6976913290743.jpeg_20261011213800.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "saco-presente-6975096191847",
+    "categoryId": "saco-presente",
+    "category": "Saco De Presente",
+    "name": "Linda Sacola De Presente Em Formato De Cisne (Rosa/P)",
+    "price": 2129.0,
+    "reference": "6975096191847",
+    "image": "public/Saco De Presente/6975096191847.jpeg_20261011213748.jpg",
+    "images": [
+      "public/Saco De Presente/6975096191847.jpeg_20261011213748.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "saco-presente-6976913290767",
+    "categoryId": "saco-presente",
+    "category": "Saco De Presente",
+    "name": "Sacola De Presente Com Estampa De Coração Em Foil (Branca/P)",
+    "price": 2129.0,
+    "reference": "6976913290767",
+    "image": "public/Saco De Presente/6976913290767.jpeg_20261011213806.jpg",
+    "images": [
+      "public/Saco De Presente/6976913290767.jpeg_20261011213806.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "saco-presente-6932559667264",
+    "categoryId": "saco-presente",
+    "category": "Saco De Presente",
+    "name": "Sacola De Presente Fofa Da Mimi (Rosa/M)",
+    "price": 2563.0,
+    "reference": "6932559667264",
+    "image": "public/Saco De Presente/6932559667264.jpeg_20261011213751.jpg",
+    "images": [
+      "public/Saco De Presente/6932559667264.jpeg_20261011213751.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "saco-presente-6976913290750",
+    "categoryId": "saco-presente",
+    "category": "Saco De Presente",
+    "name": "Sacola De Presente Com Estampa De Coração Em Foil (Rosa/M)",
+    "price": 2563.0,
+    "reference": "6976913290750",
+    "image": "public/Saco De Presente/6976913290750.jpeg_20261011213744.jpg",
+    "images": [
+      "public/Saco De Presente/6976913290750.jpeg_20261011213744.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "saco-presente-6975349065949",
+    "categoryId": "saco-presente",
+    "category": "Saco De Presente",
+    "name": "Sacola De Presente (Flores Vermelhas/M)",
+    "price": 2997.0000000000005,
+    "reference": "6975349065949",
+    "image": "public/Saco De Presente/6975349065949.jpeg_20261011213804.jpg",
+    "images": [
+      "public/Saco De Presente/6975349065949.jpeg_20261011213804.jpg"
+    ],
+    "searchTerms": []
+  },
+  {
+    "id": "saco-presente-6972545335128",
+    "categoryId": "saco-presente",
+    "category": "Saco De Presente",
+    "name": "Sacola De Presente Com Flores Românticas - Tamanho G",
+    "price": 2997.0000000000005,
+    "reference": "6972545335128",
+    "image": "public/Saco De Presente/6972545335128.jpeg_20261011213754.jpg",
+    "images": [
+      "public/Saco De Presente/6972545335128.jpeg_20261011213754.jpg"
+    ],
+    "searchTerms": []
+  }
+]
