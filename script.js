@@ -253,6 +253,15 @@ const revealPage = async () => {
 
 revealPage();
 
+// If the page was frozen mid-preloader and restored from the back-forward
+// cache, the reveal animation never resumes and the overlay stays on screen.
+// Force the page open so the back button never lands on a blank page.
+window.addEventListener("pageshow", (event) => {
+	if (!event.persisted) return;
+	document.body.classList.add("loaded");
+	document.querySelector(".preloader-overlay")?.remove();
+});
+
 const parallaxImages = Array.from(document.querySelectorAll(".img img"));
 
 const lerp = (start, end, factor) => start + (end - start) * factor;
